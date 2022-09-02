@@ -1,0 +1,4 @@
+2022-08-31T07:58:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\alice\wp-includes\widgets\class-wp-nav-menu-widget.php à la ligne 17
+
+2022-08-31T07:59:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\alice\wp-includes\media-template.php à la ligne 16
+

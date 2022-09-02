@@ -1,0 +1,94 @@
+2022-09-01T08:10:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\alice\wp-content\plugins\blocksy-companion\framework\features\account-auth.php à la ligne 5
+
+2022-09-01T08:10:43+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\alice\wp-content\plugins\elementor\includes\base\controls-stack.php à la ligne 9
+
+2022-09-01T08:10:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\alice\wp-content\plugins\elementor\core\app\modules\kit-library\module.php à la ligne 13
+
+2022-09-01T08:10:48+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\alice\wp-content\plugins\elementor\includes\managers\wordpress-widgets.php à la ligne 4
+
+2022-09-01T08:10:48+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\alice\wp-content\plugins\blocksy-companion\framework\extensions\widgets\widgets\ct-contact-info\widget.php à la ligne 10
+
+2022-09-01T12:00:06+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 28672 bytes) dans C:\xampp\htdocs\alice\wp-content\plugins\woocommerce\src\Admin\API\Orders.php à la ligne 257
+
+2022-09-01T12:00:09+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 3670016 bytes) dans C:\xampp\htdocs\alice\wp-content\plugins\jetpack\extensions\blocks\button\button.php à la ligne 195
+
+2022-09-01T12:00:09+00:00 CRITICAL Out of memory (allocated 37748736) (tried to allocate 4096 bytes) dans C:\xampp\htdocs\alice\wp-includes\pomo\streams.php à la ligne 95
+
+2022-09-01T12:00:11+00:00 CRITICAL Out of memory (allocated 29360128) (tried to allocate 28672 bytes) dans C:\xampp\htdocs\alice\wp-content\plugins\woocommerce\includes\wc-template-functions.php à la ligne 1634
+
+2022-09-01T12:00:15+00:00 CRITICAL Out of memory (allocated 48234496) (tried to allocate 28672 bytes) dans C:\xampp\htdocs\alice\wp-content\plugins\wpforms-lite\includes\fields\class-name.php à la ligne 151
+
+2022-09-01T12:00:16+00:00 CRITICAL Out of memory (allocated 18874368) (tried to allocate 32768 bytes) dans C:\xampp\htdocs\alice\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-compat\lib\locales.php à la ligne 1681
+
+2022-09-01T12:01:19+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 458752 bytes) dans C:\xampp\htdocs\alice\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-compat\lib\locales.php à la ligne 2253
+
+2022-09-01T12:01:22+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 28672 bytes) dans C:\xampp\htdocs\alice\wp-content\plugins\woocommerce\src\Admin\API\Orders.php à la ligne 257
+
+2022-09-01T12:01:24+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 28672 bytes) dans C:\xampp\htdocs\alice\wp-content\plugins\woocommerce\src\Admin\API\Orders.php à la ligne 257
+
+2022-09-01T12:01:24+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 262144 bytes) dans C:\xampp\htdocs\alice\wp-includes\plugin.php à la ligne 118
+
+2022-09-01T12:04:28+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 3670016 bytes) dans C:\xampp\htdocs\alice\wp-content\plugins\jetpack\extensions\blocks\button\button.php à la ligne 195
+
+2022-09-01T12:07:04+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 32768 bytes) dans C:\xampp\htdocs\alice\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-compat\lib\locales.php à la ligne 1381
+
+2022-09-01T12:07:32+00:00 CRITICAL Out of memory (allocated 29360128) (tried to allocate 4096 bytes) dans C:\xampp\htdocs\alice\wp-includes\pomo\mo.php à la ligne 317
+
+2022-09-01T12:07:34+00:00 CRITICAL Out of memory (allocated 20971520) (tried to allocate 200704 bytes) in C:\xampp\htdocs\alice\wp-includes\pomo\streams.php on line 125
+
+2022-09-01T12:07:53+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 380928 bytes) dans C:\xampp\htdocs\alice\wp-includes\pomo\streams.php à la ligne 220
+
+2022-09-01T13:07:32+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 32768 bytes) dans C:\xampp\htdocs\alice\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-compat\lib\locales.php à la ligne 1681
+
+2022-09-01T13:07:36+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 12288 bytes) dans C:\xampp\htdocs\alice\wp-content\plugins\woocommerce\includes\emails\class-wc-email.php à la ligne 1089
+
+2022-09-01T13:07:46+00:00 CRITICAL Out of memory (allocated 16777216) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\alice\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-assets.php à la ligne 308
+
+2022-09-01T13:07:46+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 3670016 bytes) dans C:\xampp\htdocs\alice\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-search\src\class-rest-controller.php à la ligne 109
+
+2022-09-01T13:13:41+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 28672 bytes) dans C:\xampp\htdocs\alice\wp-admin\includes\post.php à la ligne 130
+
+2022-09-01T13:15:11+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 20480 bytes) dans C:\xampp\htdocs\alice\wp-content\plugins\wpforms-lite\includes\fields\class-internal-information.php à la ligne 344
+
+2022-09-01T13:15:40+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\alice\wp-includes\plugin.php à la ligne 118
+
+2022-09-01T14:12:45+00:00 CRITICAL Out of memory (allocated 46137344) (tried to allocate 200704 bytes) in C:\xampp\htdocs\alice\wp-includes\pomo\streams.php on line 125
+
+2022-09-01T14:13:01+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\alice\wp-content\themes\blocksy\inc\dynamic-styles\global\woocommerce.php à la ligne 1061
+
+2022-09-01T14:13:18+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 32768 bytes) dans C:\xampp\htdocs\alice\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-compat\lib\locales.php à la ligne 1381
+
+2022-09-01T16:42:16+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 458752 bytes) dans C:\xampp\htdocs\alice\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-compat\lib\locales.php à la ligne 2253
+
+2022-09-01T16:42:22+00:00 CRITICAL Out of memory (allocated 23068672) (tried to allocate 4096 bytes) dans C:\xampp\htdocs\alice\wp-includes\pomo\mo.php à la ligne 315
+
+2022-09-01T16:43:52+00:00 CRITICAL Out of memory (allocated 25165824) (tried to allocate 28672 bytes) dans C:\xampp\htdocs\alice\wp-admin\includes\post.php à la ligne 130
+
+2022-09-01T16:46:34+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\alice\wp-content\plugins\woocommerce-payments\vendor\woocommerce\subscriptions-core\includes\wcs-cart-functions.php à la ligne 14
+
+2022-09-01T16:46:34+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\alice\wp-content\plugins\woocommerce-payments\vendor\woocommerce\subscriptions-core\includes\wcs-resubscribe-functions.php à la ligne 13
+
+2022-09-01T16:46:40+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\alice\wp-content\plugins\woocommerce\src\Admin\Features\Features.php à la ligne 15
+
+2022-09-01T16:46:40+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\alice\wp-content\plugins\woocommerce\src\Internal\Admin\Marketing.php à la ligne 17
+
+2022-09-01T16:46:41+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\alice\wp-content\plugins\woocommerce\src\Internal\Admin\SystemStatusReport.php à la ligne 9
+
+2022-09-01T16:46:41+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\alice\wp-content\plugins\woocommerce\src\Internal\Admin\SystemStatusReport.php à la ligne 9
+
+2022-09-01T16:47:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\alice\wp-content\themes\blocksy\inc\options\general\page-title.php à la ligne 10
+
+2022-09-01T16:47:05+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\alice\wp-includes\Requests\Transport\cURL.php à la ligne 165
+
+2022-09-01T16:47:10+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\alice\wp-includes\class-wp-hook.php à la ligne 88
+
+2022-09-01T16:47:11+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\alice\wp-content\plugins\elementor\includes\widgets\star-rating.php à la ligne 4
+
+2022-09-01T16:47:11+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\alice\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version3\class-wc-rest-orders-controller.php à la ligne 19
+
+2022-09-01T16:47:11+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\alice\wp-content\plugins\elementor\includes\widgets\testimonial.php à la ligne 4
+
+2022-09-01T16:56:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\alice\wp-content\plugins\wpforms-lite\includes\admin\class-about.php à la ligne 8
+
+2022-09-01T16:56:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\alice\wp-content\plugins\woocommerce-payments\includes\class-wc-payment-gateway-wcpay.php à la ligne 8
+

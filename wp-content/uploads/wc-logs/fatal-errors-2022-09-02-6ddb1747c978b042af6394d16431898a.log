@@ -1,0 +1,10 @@
+2022-09-02T08:20:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\alice\wp-content\plugins\woocommerce-gateway-stripe\includes\class-wc-stripe-webhook-state.php à la ligne 2
+
+2022-09-02T08:20:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\alice\wp-content\plugins\elementor\core\documents-manager.php à la ligne 12
+
+2022-09-02T08:20:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\alice\wp-content\plugins\elementor\includes\settings\settings.php à la ligne 7
+
+2022-09-02T08:20:38+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\alice\wp-content\plugins\woocommerce-services\classes\class-wc-connect-compatibility.php à la ligne 8
+
+2022-09-02T08:20:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\alice\wp-content\plugins\elementor\includes\widgets\icon-box.php à la ligne 4
+
